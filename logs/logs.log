@@ -1,0 +1,380 @@
+[INFO ] 2024-06-14 12:54:15.989 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:54:16.057 [main] LoggerUtils - test started for testInvalidLoginFunctionalityonAdsPage
+[INFO ] 2024-06-14 12:54:19.828 [main] LoggerUtils - test passed for testInvalidLoginFunctionalityonAdsPage
+[INFO ] 2024-06-14 12:54:21.148 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:54:26.478 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:54:26.481 [main] LoggerUtils - test started for testAddProductToCart
+[INFO ] 2024-06-14 12:54:40.944 [main] LoggerUtils - test passed for testAddProductToCart
+[INFO ] 2024-06-14 12:54:42.876 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:54:45.600 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:54:45.605 [main] LoggerUtils - test started for testRemoveProductFromCart
+[INFO ] 2024-06-14 12:54:59.988 [main] LoggerUtils - test passed for testRemoveProductFromCart
+[INFO ] 2024-06-14 12:55:01.843 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:55:04.568 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:55:04.570 [main] LoggerUtils - test started for testBuyNowBtnFunctionality
+[INFO ] 2024-06-14 12:55:09.318 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:55:13.589 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:55:13.612 [main] LoggerUtils - test started for testGroceryValidPincode
+[INFO ] 2024-06-14 12:55:15.943 [main] LoggerUtils - test passed for testGroceryValidPincode
+[INFO ] 2024-06-14 12:55:17.277 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:55:21.437 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:55:21.458 [main] LoggerUtils - test started for testGroceryInValidPincode
+[INFO ] 2024-06-14 12:55:23.174 [main] LoggerUtils - test passed for testGroceryInValidPincode
+[INFO ] 2024-06-14 12:55:24.541 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:55:28.614 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:55:28.643 [main] LoggerUtils - test started for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 12:55:30.312 [main] LoggerUtils - test passed for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 12:55:31.985 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:55:36.181 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:55:36.216 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 12:55:39.209 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 12:55:42.636 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:55:46.845 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:55:46.872 [main] LoggerUtils - test started for testGroceryRemoveItems
+[INFO ] 2024-06-14 12:55:53.307 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:55:57.606 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:55:57.634 [main] LoggerUtils - test started for testHelpPageFeedbackYesBtnFunctionality
+[INFO ] 2024-06-14 12:56:01.007 [main] LoggerUtils - test passed for testHelpPageFeedbackYesBtnFunctionality
+[INFO ] 2024-06-14 12:56:02.531 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:56:07.350 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:56:07.387 [main] LoggerUtils - test started for testHelpPageFeedbackNoBtnFunctionality
+[INFO ] 2024-06-14 12:56:11.260 [main] LoggerUtils - test passed for testHelpPageFeedbackNoBtnFunctionality
+[INFO ] 2024-06-14 12:56:12.592 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:56:14.755 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:56:14.776 [main] LoggerUtils - test started for testFlipkartLogoVisibility
+[INFO ] 2024-06-14 12:56:16.852 [main] LoggerUtils - test passed for testFlipkartLogoVisibility
+[INFO ] 2024-06-14 12:56:18.336 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:56:22.584 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:56:22.617 [main] LoggerUtils - test started for testSearchBarFunctionality
+[INFO ] 2024-06-14 12:56:22.810 [main] LoggerUtils - test passed for testSearchBarFunctionality
+[INFO ] 2024-06-14 12:56:26.175 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:56:30.230 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:56:30.252 [main] LoggerUtils - test started for testSearchWithMisspelledQueries
+[INFO ] 2024-06-14 12:56:42.451 [main] LoggerUtils - test passed for testSearchWithMisspelledQueries
+[INFO ] 2024-06-14 12:56:43.981 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:56:48.032 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:56:48.071 [main] LoggerUtils - test started for testInvalidLoginFunctionality
+[INFO ] 2024-06-14 12:56:50.839 [main] LoggerUtils - test passed for testInvalidLoginFunctionality
+[INFO ] 2024-06-14 12:56:52.093 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:56:56.241 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:56:56.271 [main] LoggerUtils - test started for testInvalidOtpFunctionality
+[INFO ] 2024-06-14 12:57:03.826 [main] LoggerUtils - test passed for testInvalidOtpFunctionality
+[INFO ] 2024-06-14 12:57:05.539 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:57:09.744 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:57:09.748 [main] LoggerUtils - test started for testSellerBtnPresence
+[INFO ] 2024-06-14 12:57:09.941 [main] LoggerUtils - test passed for testSellerBtnPresence
+[INFO ] 2024-06-14 12:57:11.549 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:57:16.067 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:57:16.070 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 12:57:20.142 [main] LoggerUtils - test passed for testSellerLoginFunctionality
+[INFO ] 2024-06-14 12:57:21.398 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:57:25.709 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:57:25.711 [main] LoggerUtils - test started for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 12:57:30.144 [main] LoggerUtils - test passed for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 12:57:31.394 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 12:57:36.106 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 12:57:36.108 [main] LoggerUtils - test started for testStartSellingBtnPresence
+[INFO ] 2024-06-14 12:57:39.297 [main] LoggerUtils - test passed for testStartSellingBtnPresence
+[INFO ] 2024-06-14 12:57:40.509 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:31:13.774 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:31:13.801 [main] LoggerUtils - test started for testGroceryValidPincode
+[INFO ] 2024-06-14 13:31:16.724 [main] LoggerUtils - test passed for testGroceryValidPincode
+[INFO ] 2024-06-14 13:31:18.260 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:31:23.998 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:31:24.021 [main] LoggerUtils - test started for testGroceryInValidPincode
+[INFO ] 2024-06-14 13:31:25.914 [main] LoggerUtils - test passed for testGroceryInValidPincode
+[INFO ] 2024-06-14 13:31:27.251 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:31:31.542 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:31:31.574 [main] LoggerUtils - test started for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 13:31:33.240 [main] LoggerUtils - test passed for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 13:31:34.938 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:31:39.451 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:31:39.478 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 13:31:42.674 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 13:31:45.684 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:31:51.028 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:31:51.044 [main] LoggerUtils - test started for testGroceryRemoveItems
+[INFO ] 2024-06-14 13:31:56.913 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:33:46.112 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:33:46.126 [main] LoggerUtils - test started for testGroceryValidPincode
+[INFO ] 2024-06-14 13:33:48.188 [main] LoggerUtils - test passed for testGroceryValidPincode
+[INFO ] 2024-06-14 13:33:49.495 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:33:54.298 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:33:54.306 [main] LoggerUtils - test started for testGroceryInValidPincode
+[INFO ] 2024-06-14 13:33:56.180 [main] LoggerUtils - test passed for testGroceryInValidPincode
+[INFO ] 2024-06-14 13:33:57.300 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:34:01.603 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:34:01.611 [main] LoggerUtils - test started for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 13:34:03.197 [main] LoggerUtils - test passed for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 13:34:04.906 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:34:09.110 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:34:09.114 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 13:34:12.271 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 13:34:15.325 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:34:19.562 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:34:19.568 [main] LoggerUtils - test started for testGroceryRemoveItems
+[INFO ] 2024-06-14 13:34:26.219 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:35:15.176 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:35:15.189 [main] LoggerUtils - test started for testGroceryRemoveItems
+[INFO ] 2024-06-14 13:35:22.219 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:35:37.076 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:35:37.101 [main] LoggerUtils - test started for testGroceryRemoveItems
+[INFO ] 2024-06-14 13:35:44.514 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:41:58.123 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:41:58.159 [main] LoggerUtils - test started for testGroceryRemoveItems
+[INFO ] 2024-06-14 13:42:05.583 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:44:35.437 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:44:35.459 [main] LoggerUtils - test started for testGroceryRemoveItems
+[INFO ] 2024-06-14 13:44:41.880 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:46:22.396 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:46:22.406 [main] LoggerUtils - test started for testGroceryRemoveItems
+[INFO ] 2024-06-14 13:46:27.561 [main] LoggerUtils - test passed for testGroceryRemoveItems
+[INFO ] 2024-06-14 13:46:29.145 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:48:31.662 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:48:31.673 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 13:48:33.330 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 13:48:35.146 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:51:02.157 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:51:02.177 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 13:51:05.741 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 13:51:09.216 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:52:18.554 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:52:18.611 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 13:52:46.504 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:55:23.824 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:55:23.838 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 13:55:40.799 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:56:10.023 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:56:10.039 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 13:56:26.603 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:56:51.175 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:56:51.195 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 13:57:06.662 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 13:58:05.662 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 13:58:05.675 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 13:58:10.222 [main] LoggerUtils - test passed for testSellerLoginFunctionality
+[INFO ] 2024-06-14 13:58:11.630 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 14:13:08.305 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 14:13:08.317 [main] LoggerUtils - test started for testGroceryValidPincode
+[INFO ] 2024-06-14 14:13:10.499 [main] LoggerUtils - test passed for testGroceryValidPincode
+[INFO ] 2024-06-14 14:13:12.011 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 14:13:17.288 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 14:13:17.292 [main] LoggerUtils - test started for testGroceryInValidPincode
+[INFO ] 2024-06-14 14:13:19.066 [main] LoggerUtils - test passed for testGroceryInValidPincode
+[INFO ] 2024-06-14 14:13:20.483 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 14:13:24.724 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 14:13:24.727 [main] LoggerUtils - test started for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 14:13:26.199 [main] LoggerUtils - test passed for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 14:13:27.830 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 14:13:57.611 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 14:13:57.628 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 14:14:00.935 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 14:14:04.161 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 14:25:34.007 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 14:25:34.040 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 14:29:31.732 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 14:29:31.740 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 15:32:50.921 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 15:32:50.945 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 15:33:03.286 [main] LoggerUtils - test passed for testSellerLoginFunctionality
+[INFO ] 2024-06-14 15:33:05.069 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 15:34:14.659 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 15:34:14.712 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 15:34:19.542 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 15:34:24.811 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 15:36:08.402 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 15:36:08.426 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 15:36:12.125 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 15:36:16.385 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 15:37:04.306 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 15:37:04.332 [main] LoggerUtils - test started for testGroceryAddItems
+[INFO ] 2024-06-14 15:37:09.223 [main] LoggerUtils - test passed for testGroceryAddItems
+[INFO ] 2024-06-14 15:37:12.837 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:00:44.238 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:00:44.275 [main] LoggerUtils - test started for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:00:57.954 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:07:49.014 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:07:49.074 [main] LoggerUtils - test started for testSellerBtnPresence
+[INFO ] 2024-06-14 16:07:51.437 [main] LoggerUtils - test passed for testSellerBtnPresence
+[INFO ] 2024-06-14 16:07:53.440 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:08:00.526 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:08:00.532 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 16:08:08.090 [main] LoggerUtils - test passed for testSellerLoginFunctionality
+[INFO ] 2024-06-14 16:08:09.894 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:08:13.548 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:08:13.607 [main] LoggerUtils - test started for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:08:23.451 [main] LoggerUtils - test passed for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:08:25.696 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:08:32.425 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:08:32.461 [main] LoggerUtils - test started for testStartSellingBtnPresence
+[INFO ] 2024-06-14 16:08:38.002 [main] LoggerUtils - test passed for testStartSellingBtnPresence
+[INFO ] 2024-06-14 16:08:39.816 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:22:05.570 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:22:05.588 [main] LoggerUtils - test started for testAdsResetPasswordFunctionality
+[INFO ] 2024-06-14 16:22:08.734 [main] LoggerUtils - test passed for testAdsResetPasswordFunctionality
+[INFO ] 2024-06-14 16:22:10.641 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:31:08.296 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:31:08.310 [main] LoggerUtils - test started for testAdsEmptyResetPasswordFunctionality
+[INFO ] 2024-06-14 16:31:10.078 [main] LoggerUtils - test passed for testAdsEmptyResetPasswordFunctionality
+[INFO ] 2024-06-14 16:31:11.633 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:34:16.144 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:34:16.154 [main] LoggerUtils - test started for testInvalidLoginFunctionalityonAdsPage
+[INFO ] 2024-06-14 16:34:18.957 [main] LoggerUtils - test passed for testInvalidLoginFunctionalityonAdsPage
+[INFO ] 2024-06-14 16:34:20.542 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:34:28.159 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:34:28.161 [main] LoggerUtils - test started for testAdsResetPasswordFunctionality
+[INFO ] 2024-06-14 16:34:31.727 [main] LoggerUtils - test passed for testAdsResetPasswordFunctionality
+[INFO ] 2024-06-14 16:34:32.880 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:34:38.879 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:34:38.882 [main] LoggerUtils - test started for testAdsEmptyResetPasswordFunctionality
+[INFO ] 2024-06-14 16:34:42.399 [main] LoggerUtils - test passed for testAdsEmptyResetPasswordFunctionality
+[INFO ] 2024-06-14 16:34:43.944 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:34:50.642 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:34:50.643 [main] LoggerUtils - test started for testAddProductToCart
+[INFO ] 2024-06-14 16:34:59.384 [main] LoggerUtils - test passed for testAddProductToCart
+[INFO ] 2024-06-14 16:35:01.016 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:35:04.011 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:35:04.012 [main] LoggerUtils - test started for testRemoveProductFromCart
+[INFO ] 2024-06-14 16:35:08.459 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:35:13.636 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:35:13.637 [main] LoggerUtils - test started for testBuyNowBtnFunctionality
+[INFO ] 2024-06-14 16:35:23.485 [main] LoggerUtils - test passed for testBuyNowBtnFunctionality
+[INFO ] 2024-06-14 16:35:25.163 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:35:30.108 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:35:30.118 [main] LoggerUtils - test started for testGroceryValidPincode
+[INFO ] 2024-06-14 16:35:33.841 [main] LoggerUtils - test passed for testGroceryValidPincode
+[INFO ] 2024-06-14 16:35:35.764 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:35:41.335 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:35:41.338 [main] LoggerUtils - test started for testGroceryInValidPincode
+[INFO ] 2024-06-14 16:35:44.909 [main] LoggerUtils - test passed for testGroceryInValidPincode
+[INFO ] 2024-06-14 16:35:46.608 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:35:51.745 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:35:51.747 [main] LoggerUtils - test started for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 16:35:53.883 [main] LoggerUtils - test passed for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 16:35:55.803 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:36:00.674 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:36:00.712 [main] LoggerUtils - test started for testHelpPageFeedbackYesBtnFunctionality
+[INFO ] 2024-06-14 16:36:04.247 [main] LoggerUtils - test passed for testHelpPageFeedbackYesBtnFunctionality
+[INFO ] 2024-06-14 16:36:05.606 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:36:11.174 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:36:11.205 [main] LoggerUtils - test started for testHelpPageFeedbackNoBtnFunctionality
+[INFO ] 2024-06-14 16:36:15.633 [main] LoggerUtils - test passed for testHelpPageFeedbackNoBtnFunctionality
+[INFO ] 2024-06-14 16:36:17.427 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:36:22.650 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:36:22.684 [main] LoggerUtils - test started for testFlipkartLogoVisibility
+[INFO ] 2024-06-14 16:36:22.911 [main] LoggerUtils - test passed for testFlipkartLogoVisibility
+[INFO ] 2024-06-14 16:36:24.514 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:36:29.739 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:36:29.766 [main] LoggerUtils - test started for testSearchBarFunctionality
+[INFO ] 2024-06-14 16:36:29.993 [main] LoggerUtils - test passed for testSearchBarFunctionality
+[INFO ] 2024-06-14 16:36:35.026 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:36:41.801 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:36:41.834 [main] LoggerUtils - test started for testSearchWithMisspelledQueries
+[INFO ] 2024-06-14 16:36:54.624 [main] LoggerUtils - test passed for testSearchWithMisspelledQueries
+[INFO ] 2024-06-14 16:36:57.228 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:37:01.966 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:37:01.996 [main] LoggerUtils - test started for testInvalidLoginFunctionality
+[INFO ] 2024-06-14 16:37:05.323 [main] LoggerUtils - test passed for testInvalidLoginFunctionality
+[INFO ] 2024-06-14 16:37:06.847 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:37:12.620 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:37:12.686 [main] LoggerUtils - test started for testInvalidOtpFunctionality
+[INFO ] 2024-06-14 16:37:23.642 [main] LoggerUtils - test passed for testInvalidOtpFunctionality
+[INFO ] 2024-06-14 16:37:25.168 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:37:30.357 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:37:30.399 [main] LoggerUtils - test started for testSellerBtnPresence
+[INFO ] 2024-06-14 16:37:30.649 [main] LoggerUtils - test passed for testSellerBtnPresence
+[INFO ] 2024-06-14 16:37:32.716 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:37:38.708 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:37:38.749 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 16:37:44.006 [main] LoggerUtils - test passed for testSellerLoginFunctionality
+[INFO ] 2024-06-14 16:37:45.526 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:37:50.459 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:37:50.462 [main] LoggerUtils - test started for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:37:55.773 [main] LoggerUtils - test passed for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:37:57.127 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:38:01.992 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:38:01.996 [main] LoggerUtils - test started for testStartSellingBtnPresence
+[INFO ] 2024-06-14 16:38:06.384 [main] LoggerUtils - test passed for testStartSellingBtnPresence
+[INFO ] 2024-06-14 16:38:07.890 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:41:08.900 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:41:08.942 [main] LoggerUtils - test started for testInvalidLoginFunctionalityonAdsPage
+[INFO ] 2024-06-14 16:41:12.564 [main] LoggerUtils - test passed for testInvalidLoginFunctionalityonAdsPage
+[INFO ] 2024-06-14 16:41:14.042 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:41:20.157 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:41:20.212 [main] LoggerUtils - test started for testAdsResetPasswordFunctionality
+[INFO ] 2024-06-14 16:41:25.001 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:41:30.042 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:41:30.079 [main] LoggerUtils - test started for testAdsEmptyResetPasswordFunctionality
+[INFO ] 2024-06-14 16:41:32.200 [main] LoggerUtils - test passed for testAdsEmptyResetPasswordFunctionality
+[INFO ] 2024-06-14 16:41:33.712 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:41:37.327 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:41:37.328 [main] LoggerUtils - test started for testAddProductToCart
+[INFO ] 2024-06-14 16:41:51.355 [main] LoggerUtils - test passed for testAddProductToCart
+[INFO ] 2024-06-14 16:41:52.939 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:41:57.735 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:41:57.736 [main] LoggerUtils - test started for testRemoveProductFromCart
+[INFO ] 2024-06-14 16:42:09.963 [main] LoggerUtils - test passed for testRemoveProductFromCart
+[INFO ] 2024-06-14 16:42:11.625 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:42:16.500 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:42:16.502 [main] LoggerUtils - test started for testBuyNowBtnFunctionality
+[INFO ] 2024-06-14 16:42:25.271 [main] LoggerUtils - test passed for testBuyNowBtnFunctionality
+[INFO ] 2024-06-14 16:42:26.849 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:42:31.917 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:42:31.966 [main] LoggerUtils - test started for testGroceryValidPincode
+[INFO ] 2024-06-14 16:42:36.175 [main] LoggerUtils - test passed for testGroceryValidPincode
+[INFO ] 2024-06-14 16:42:38.244 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:42:43.294 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:42:43.323 [main] LoggerUtils - test started for testGroceryInValidPincode
+[INFO ] 2024-06-14 16:42:45.779 [main] LoggerUtils - test passed for testGroceryInValidPincode
+[INFO ] 2024-06-14 16:42:47.378 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:42:52.125 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:42:52.163 [main] LoggerUtils - test started for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 16:42:54.100 [main] LoggerUtils - test passed for testGrocerySearchBarFunctionality
+[INFO ] 2024-06-14 16:42:56.038 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:43:01.045 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:43:01.075 [main] LoggerUtils - test started for testHelpPageFeedbackYesBtnFunctionality
+[INFO ] 2024-06-14 16:43:03.664 [main] LoggerUtils - test passed for testHelpPageFeedbackYesBtnFunctionality
+[INFO ] 2024-06-14 16:43:04.833 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:43:09.714 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:43:09.741 [main] LoggerUtils - test started for testHelpPageFeedbackNoBtnFunctionality
+[INFO ] 2024-06-14 16:43:13.102 [main] LoggerUtils - test passed for testHelpPageFeedbackNoBtnFunctionality
+[INFO ] 2024-06-14 16:43:14.513 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:43:19.426 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:43:19.447 [main] LoggerUtils - test started for testFlipkartLogoVisibility
+[INFO ] 2024-06-14 16:43:19.657 [main] LoggerUtils - test passed for testFlipkartLogoVisibility
+[INFO ] 2024-06-14 16:43:21.319 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:43:26.015 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:43:26.053 [main] LoggerUtils - test started for testSearchBarFunctionality
+[INFO ] 2024-06-14 16:43:26.262 [main] LoggerUtils - test passed for testSearchBarFunctionality
+[INFO ] 2024-06-14 16:43:30.382 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:43:35.410 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:43:35.446 [main] LoggerUtils - test started for testSearchWithMisspelledQueries
+[INFO ] 2024-06-14 16:43:48.180 [main] LoggerUtils - test passed for testSearchWithMisspelledQueries
+[INFO ] 2024-06-14 16:43:50.050 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:43:55.525 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:43:55.562 [main] LoggerUtils - test started for testInvalidLoginFunctionality
+[INFO ] 2024-06-14 16:43:59.535 [main] LoggerUtils - test passed for testInvalidLoginFunctionality
+[INFO ] 2024-06-14 16:44:01.273 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:44:06.416 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:44:06.454 [main] LoggerUtils - test started for testInvalidOtpFunctionality
+[INFO ] 2024-06-14 16:44:15.103 [main] LoggerUtils - test passed for testInvalidOtpFunctionality
+[INFO ] 2024-06-14 16:44:16.606 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:44:23.151 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:44:23.176 [main] LoggerUtils - test started for testSellerBtnPresence
+[INFO ] 2024-06-14 16:44:23.410 [main] LoggerUtils - test passed for testSellerBtnPresence
+[INFO ] 2024-06-14 16:44:25.171 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:44:29.893 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:44:29.920 [main] LoggerUtils - test started for testSellerLoginFunctionality
+[INFO ] 2024-06-14 16:44:55.902 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:45:01.721 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:45:01.776 [main] LoggerUtils - test started for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:45:08.195 [main] LoggerUtils - test passed for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:45:09.783 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:45:14.820 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:45:14.848 [main] LoggerUtils - test started for testStartSellingBtnPresence
+[INFO ] 2024-06-14 16:45:18.492 [main] LoggerUtils - test passed for testStartSellingBtnPresence
+[INFO ] 2024-06-14 16:45:20.110 [main] LoggerUtils - Browser closed
+[INFO ] 2024-06-14 16:48:29.972 [main] LoggerUtils - Browser setup completed and navigated to URL
+[INFO ] 2024-06-14 16:48:29.997 [main] LoggerUtils - test started for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:48:36.621 [main] LoggerUtils - test passed for testSellerResetPasswordFunctionality
+[INFO ] 2024-06-14 16:48:38.862 [main] LoggerUtils - Browser closed

@@ -1,0 +1,87 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Flipkart Automation Suite" verbose="1"
+	parallel="false">
+
+
+	<test name="AdvertisePageTest">
+		<groups>
+			<run>
+				<include name="advertise" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.flipkart.tests.AdvertisePageTest" />
+		</classes>
+	</test>
+	<test name="CartTest">
+		<groups>
+			<run>
+				<include name="cart" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.flipkart.tests.CartTest" />
+		</classes>
+	</test>
+	<test name="GroceryTest">
+		<groups>
+			<run>
+				<include name="grocery" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.flipkart.tests.GroceryTest" />
+		</classes>
+	</test>
+	<test name="HelpPageTest">
+		<groups>
+			<run>
+				<include name="help" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.flipkart.tests.HelpPageTest" />
+		</classes>
+	</test>
+	<test name="HomeTest">
+		<groups>
+			<run>
+				<include name="home" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.flipkart.tests.HomeTest" />
+		</classes>
+	</test>
+	<test name="LoginTest">
+		<groups>
+			<run>
+				<include name="login" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.flipkart.tests.LoginTest" />
+		</classes>
+	</test>
+	<test name="SellerRegisterPageTest">
+		<groups>
+			<run>
+				<include name="sellerRegister" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.flipkart.tests.SellerRegisterPageTest" />
+		</classes>
+	</test>
+	<test name="SellerTest">
+		<groups>
+			<run>
+				<include name="seller" />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.flipkart.tests.SellerTest" />
+		</classes>
+	</test>
+</suite>

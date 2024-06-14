@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Flipkart Automation Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="AdvertisePageTest(failed)" verbose="0">
+    <groups>
+      <run>
+        <include name="advertise"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.flipkart.tests.AdvertisePageTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="testAdsResetPasswordFunctionality"/>
+          <include name="setup"/>
+          <include name="beforesuite"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.AdvertisePageTest -->
+    </classes>
+  </test> <!-- AdvertisePageTest(failed) -->
+  <test thread-count="5" name="SellerTest(failed)" verbose="0">
+    <groups>
+      <run>
+        <include name="seller"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.flipkart.tests.SellerTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="beforesuite"/>
+          <include name="testSellerLoginFunctionality"/>
+        </methods>
+      </class> <!-- com.flipkart.tests.SellerTest -->
+    </classes>
+  </test> <!-- SellerTest(failed) -->
+</suite> <!-- Failed suite [Flipkart Automation Suite] -->
