@@ -79,27 +79,27 @@ public class BaseTest {
 
 		switch (browser.toLowerCase()) {
 		case "chrome":
-			WebDriverManager.chromedriver().setup();
-			ChromeOptions chromeOptions = new ChromeOptions();
-			if (headless) {
-				chromeOptions.addArguments("--headless");
-				chromeOptions.addArguments("--disable-gpu");
-				chromeOptions.addArguments("--window-size=1920,1080");
-			}
-			driver = new ChromeDriver(chromeOptions);
+			// WebDriverManager.chromedriver().setup();
+			// ChromeOptions chromeOptions = new ChromeOptions();
+			// if (headless) {
+			// 	chromeOptions.addArguments("--headless");
+			// 	chromeOptions.addArguments("--disable-gpu");
+			// 	chromeOptions.addArguments("--window-size=1920,1080");
+			// }
+			driver = new ChromeDriver();
 			break;
 		case "firefox":
-			WebDriverManager.firefoxdriver().setup();
-			FirefoxOptions firefoxOptions = new FirefoxOptions();
-			if (headless) {
-				firefoxOptions.addArguments("--headless");
-				firefoxOptions.addArguments("--disable-gpu");
-				firefoxOptions.addArguments("--window-size=1920,1080");
-			}
-			driver = new FirefoxDriver(firefoxOptions);
+			// WebDriverManager.firefoxdriver().setup();
+			// FirefoxOptions firefoxOptions = new FirefoxOptions();
+			// if (headless) {
+			// 	firefoxOptions.addArguments("--headless");
+			// 	firefoxOptions.addArguments("--disable-gpu");
+			// 	firefoxOptions.addArguments("--window-size=1920,1080");
+			// }
+			driver = new FirefoxDriver();
 			break;
 		case "ie":
-			WebDriverManager.iedriver().setup();
+			// WebDriverManager.iedriver().setup();
 			driver = new InternetExplorerDriver();
 			break;
 		}
